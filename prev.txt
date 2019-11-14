@@ -1,0 +1,6 @@
+299c7e6b4526        zhiyuli/cybergis-notebook:0.3         "tini -g -- start-no…"   6 hours ago         Up 6 hours          8888/tcp             jupyter-drew.1.rpc4xs7mjhd0wrl1psovtf1yw
+698fd16225db        zhiyuli/cybergis-notebook:0.3         "tini -g -- start-no…"   30 hours ago        Up 30 hours         8888/tcp             jupyter-sherry.1.txi7c7fzldkd83524i9pqkqo7
+96b182cc627d        linuxserver/letsencrypt:0.39.0-ls73   "/init"                  30 hours ago        Up 30 hours         80/tcp, 443/tcp      cybergis_nginx.1.vdu89z187gzgdelam8g2xy6i4
+a97bd8d4f4c9        portainer/agent:1.5.1                 "./agent"                30 hours ago        Up 30 hours                              cybergis_agent.e1f538y5deqxf44s3683qqx5h.uodj9tsnewght9dx8yiudbojs
+f58face7d2c0        portainer/portainer:1.22.2            "/portainer -H tcp:/…"   30 hours ago        Up 30 hours         9000/tcp             cybergis_portainer.1.spn3v78ulvwnhvuu7wwpni0jk
+2268264f50fb        zhiyuli/cybergis-jupyterhub:0.8       "jupyterhub"             30 hours ago        Up 30 hours         8000/tcp, 8081/tcp   cybergis_jupyterhubserver.1.xko5vgk8xflacg6n0croesivf
